@@ -29,7 +29,7 @@ Elex-Pay
 
 	如果您选择自己设置渠道选择页面，而不需要payelex支付平台提供此页面，可以选择以下URL作为支付请求地址:
 
-	http://pay.337.com/v2/index.php?mod=do_payment&act=mall
+	`http://pay.337.com/v2/index.php?mod=do_payment&act=mall`
 
 2. HTTP请求方式
 
